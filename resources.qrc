@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="/plugins/SE_CameraViewer/libs/player/" >
+      <file>icons/ico.png</file>
+      <file>icons/player/down.png</file>
+      <file>icons/player/up.png</file>
+      <file>icons/player/left.png</file>
+      <file>icons/player/right.png</file>
+      <file>icons/player/pause.png</file>
+      <file>icons/player/play.png</file>
+      <file>icons/player/stop.png</file>
+      <file>icons/player/zoom-in.png</file>
+      <file>icons/player/zoom-out.png</file>
+      <file>icons/player/home.png</file>
+      <file>icons/player/stretch.png</file>
+      <file>icons/player/shrink.png</file>
+      <file>icons/player/location.png</file>
+      <file>icons/player/location_map.png</file>
+  </qresource>
+</RCC>

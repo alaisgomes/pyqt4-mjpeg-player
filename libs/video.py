@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 from PyQt4.QtCore import QThread, pyqtSignal
-from constants import SE_DATA_PATH
 import numpy as np
 import requests
 import os.path

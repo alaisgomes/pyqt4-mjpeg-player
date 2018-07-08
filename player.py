@@ -8,8 +8,8 @@ from PyQt4.QtCore import *
 from PyQt4.QtGui import *
 from constants import *
 
-from libs.controls import CameraControls, Worker
 from libs.video import VideoStream
+from libs.worker import Worker
 from cv2 import imwrite as cv2imwrite
 from resources import *
 import sys
